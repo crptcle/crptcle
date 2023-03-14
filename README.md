@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I'm currently learning Javascript with 100devs :)
+
 <!--
 **crptcle/crptcle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
